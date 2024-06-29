@@ -16,7 +16,7 @@ const allSongs = [
     {
         id: 1,
         title: "Sau con mua",
-        artist: "Cook kid, Rhyder",
+        artist: "Cool kid, Rhyder",
         duration: "2:34",
         src: "./assets/Music/Sau-con-mua.mp3",
     },
